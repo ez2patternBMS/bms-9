@@ -1,0 +1,532 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE EURO BEAT INTRO
+#TITLE J29
+#ARTIST cranky / R1N
+#BPM 147
+#PLAYLEVEL 29
+#RANK 2
+#TOTAL 29
+#VOLWAV 100
+#STAGEFILE J219title.bmp
+
+#WAV01 bd01.wav
+#WAV02 crash01.wav
+#WAV03 crash02.wav
+#WAV04 hhc01.wav
+#WAV05 hhc02.wav
+#WAV06 hho01.wav
+#WAV07 Blip.wav
+#WAV08 Clap.wav
+#WAV09 sd01.wav
+#WAV0A hit_ph.wav
+#WAV0B hitF+.wav
+#WAV0C hitG+.wav
+#WAV0D hitB+.wav
+#WAV0E bg01.wav
+#WAV0F bg02.wav
+#WAV10 bg03.wav
+#WAV11 bg04.wav
+#WAV12 bg05.wav
+#WAV13 bg06.wav
+#WAV14 bg07.wav
+#WAV15 bg08.wav
+#WAV16 bg09.wav
+#WAV17 bg10.wav
+#WAV18 bg11.wav
+#WAV19 bg12.wav
+#WAV1A bg13.wav
+#WAV1B cp_seq01.wav
+#WAV1C cp_seq02.wav
+#WAV1D reso_bass01_L.wav
+#WAV1E reso_bass01_R.wav
+#WAV1F reso_bass02.wav
+#WAV20 reso_bass03.wav
+#WAV21 bell01.wav
+#WAV22 bell02.wav
+#WAV23 bsb01.wav
+#WAV24 bsb02.wav
+#WAV25 bsb03.wav
+#WAV26 bsb04.wav
+#WAV27 bsb05.wav
+#WAV28 seq01.wav
+#WAV29 seq02.wav
+#WAV2A seq03.wav
+#WAV2B seq04.wav
+#WAV2C bkbr01.wav
+#WAV2D bkbr02.wav
+#WAV2E bkbr03.wav
+#WAV2F bkbr04.wav
+#WAV30 bkbr05.wav
+#WAV31 bkbr06.wav
+#WAV32 bkbr07.wav
+#WAV33 bkbr08.wav
+#WAV34 bkbr09.wav
+#WAV35 bkbr10.wav
+#WAV36 bkbr11.wav
+#WAV37 bkbr12.wav
+#WAV38 bkbr13.wav
+#WAV39 d_bell01.wav
+#WAV3A d_bell02.wav
+#WAV3B d_bell03.wav
+#WAV3C bp02.wav
+#WAV3D bp03.wav
+#WAV3E bp04.wav
+#WAV3F bp06.wav
+#WAV40 bp07.wav
+#WAV41 bp08.wav
+#WAV42 bp10.wav
+#WAV43 bp11.wav
+#WAV44 bp12.wav
+#WAV45 bp14.wav
+#WAV46 bp16.wav
+#WAV47 bp18.wav
+#WAV48 bp20.wav
+#WAV49 bp23.wav
+#WAV4A bp25.wav
+#WAV4B bp27.wav
+#WAV4C bp29.wav
+#WAV4D se01.wav
+#WAV4E se02.wav
+#WAV4F se03.wav
+#WAV50 m_comeon.wav
+#WAV51 m_ahoh.wav
+#WAV52 f_comeonC.wav
+#WAV53 f_comeonL.wav
+#WAV54 f_comeonR.wav
+#WAV55 m_comewithme.wav
+#WAV56 go01.wav
+#WAV57 go02.wav
+#WAV58 go03.wav
+#WAV59 shockin'.wav
+#WAV5A f_heyDJ.wav
+#WAV5B mnbr01.wav
+#WAV5C mnbr02.wav
+#WAV5D mnbr03.wav
+#WAV5E mnbr04.wav
+#WAV5F mnbr05.wav
+#WAV60 mnbr06.wav
+#WAV61 mnbr07.wav
+#WAV62 mnbr08.wav
+#WAV63 mnbr09.wav
+#WAV64 mnbr10.wav
+#WAV65 sbrs01.wav
+#WAV66 sbrs02.wav
+#WAV67 sbrs03.wav
+#WAV68 sbrs04.wav
+#WAV69 sbrs05.wav
+#WAV6A sbrs06.wav
+#WAV6B sbrs07.wav
+#WAV6C sbrs08.wav
+#WAV6D sbrs09.wav
+#WAV6E sbrs10.wav
+#WAV6F sbrs11.wav
+#WAV70 sbrs12.wav
+#WAV71 sbrs13.wav
+#WAV72 sbrs14.wav
+#WAV73 sbrs15.wav
+#WAV74 sbrs16.wav
+#WAV75 sbrs17.wav
+#WAV76 sbrs18.wav
+#WAV77 sbrs19.wav
+#WAV78 sbrs20.wav
+#WAV79 sbrs21.wav
+#WAV7A sbrs22.wav
+#WAV7B sbrs23.wav
+#WAV7C sbrs24.wav
+#WAV7D sbrs25.wav
+#WAV7E sbrs26.wav
+#WAV7F sbrs27.wav
+#WAV80 sbrs28.wav
+#WAV81 sbrs29.wav
+#WAV82 sbrs30.wav
+#WAV83 sbrs31.wav
+#WAV84 sbrs32.wav
+#WAV85 sbrs33.wav
+#WAV86 sbrs34.wav
+#WAV87 sbrs35.wav
+#WAV88 sbrs36.wav
+#WAV89 sbrs37.wav
+#WAV8A sbrs38.wav
+#WAV8B sbrs39.wav
+#WAV8C sbrs40.wav
+#WAV8D sbrs41.wav
+#WAV8E sbrs42.wav
+#WAV8F sbrs43.wav
+#WAV90 sbrs44.wav
+#WAV91 sbrs45.wav
+#WAV92 sbrs46.wav
+#WAV93 sbrs47.wav
+#WAV94 sbrs48.wav
+#WAV95 sbrs49.wav
+#WAV96 sbrs50.wav
+#WAV97 sbrs51.wav
+#WAV98 sbrs52.wav
+#WAV99 sbrs53.wav
+#WAV9A sbrs54.wav
+#WAV9B sbrs55.wav
+#WAV9C sbrs56.wav
+#WAV9D sbrs57.wav
+#WAV9E sbrs58.wav
+#WAV9F sbrs59.wav
+#WAVA0 sbrs60.wav
+#WAVA1 clapp.wav
+#WAVA2 hhcp.wav
+#WAVA3 hhop.wav
+#WAVA4 crashp01.wav
+#WAVA5 crashp02.wav
+
+#BMP00 miss.bmp
+#BMP01 beat00.bmp
+#BMP02 beat01.bmp
+#BMP03 beat02.bmp
+#BMP04 beat03.bmp
+#BMP05 beat04.bmp
+#BMP06 beat05.bmp
+#BMP07 beat06.bmp
+#BMP08 beat07.bmp
+#BMP09 beat08.bmp
+#BMP0A beat09.bmp
+#BMP0B beat10.bmp
+#BMP0C beat11.bmp
+#BMP0D beat12.bmp
+#BMP0E beat13.bmp
+#BMP0F beat14.bmp
+#BMP10 beat15.bmp
+#BMP11 beat16.bmp
+#BMP12 beat17.bmp
+#BMP13 beat18.bmp
+#BMP14 beat19.bmp
+#BMP15 beat20.bmp
+#BMP16 beat21.bmp
+#BMP17 beat22.bmp
+#BMP18 beat23.bmp
+#BMP19 beat24.bmp
+#BMP1A beat25.bmp
+#BMP1B beat26.bmp
+#BMP1C beat27.bmp
+#BMP1D beat28.bmp
+#BMP1E beat29.bmp
+#BMP1F beat30.bmp
+#BMP20 beat31.bmp
+#BMP21 beat32.bmp
+#BMP22 beat33.bmp
+#BMP23 beat34.bmp
+#BMP24 beat35.bmp
+#BMP25 beat36.bmp
+#BMP26 beat37.bmp
+#BMP27 beat38.bmp
+#BMP28 beat39.bmp
+#BMP29 beat40.bmp
+#BMP2A beat41.bmp
+#BMP2B beat42.bmp
+#BMP2C beat43.bmp
+#BMP2D beat44.bmp
+#BMP2E beat45.bmp
+#BMP2F beat46.bmp
+#BMP30 beat47.bmp
+#BMP31 beat48.bmp
+#BMP32 beat49.bmp
+#BMP33 beat50.bmp
+#BMP34 beat51.bmp
+#BMP35 beat52.bmp
+#BMP36 beat53.bmp
+#BMP37 beat54.bmp
+#BMP38 beat55.bmp
+#BMP39 beat56.bmp
+#BMP3A beat57.bmp
+#BMP3B beat58.bmp
+#BMP3C beat59.bmp
+#BMP3D beat60.bmp
+#BMP3E beat61.bmp
+#BMP3F beat62.bmp
+#BMP40 beat63.bmp
+#BMP41 clock00.bmp
+#BMP42 clock01.bmp
+#BMP43 clock02.bmp
+#BMP44 clock03.bmp
+#BMP45 clock04.bmp
+#BMP46 clock05.bmp
+#BMP47 clock06.bmp
+#BMP48 clock07.bmp
+#BMP49 clock08.bmp
+#BMP4A clock09.bmp
+#BMP4B clock10.bmp
+#BMP4C clock11.bmp
+#BMP4D clock12.bmp
+#BMP4E clock13.bmp
+#BMP4F clock14.bmp
+#BMP50 clock15.bmp
+#BMP51 clock16.bmp
+#BMP52 clock17.bmp
+#BMP53 clock18.bmp
+#BMP54 clock19.bmp
+#BMP55 clock20.bmp
+#BMP56 clock21.bmp
+#BMP57 clock22.bmp
+#BMP58 clock23.bmp
+#BMP59 clock24.bmp
+#BMP5A clock25.bmp
+#BMP5B clock26.bmp
+#BMP5C clock27.bmp
+#BMP5D clock28.bmp
+#BMP5E clock29.bmp
+#BMP5F clock30.bmp
+#BMP60 clock31.bmp
+#BMP61 clock32.bmp
+#BMP62 clock33.bmp
+#BMP63 clock34.bmp
+#BMP64 clock35.bmp
+#BMP65 clock36.bmp
+#BMP66 clock37.bmp
+#BMP67 clock38.bmp
+#BMP68 clock39.bmp
+#BMP69 clock40.bmp
+#BMP6A clock41.bmp
+#BMP6B clock42.bmp
+#BMP6C clock43.bmp
+#BMP6D clock44.bmp
+#BMP6E clock45.bmp
+#BMP6F clock46.bmp
+#BMP70 clock47.bmp
+#BMP71 clock48.bmp
+#BMP72 clock49.bmp
+#BMP73 clock50.bmp
+#BMP74 clock51.bmp
+#BMP75 clock52.bmp
+#BMP76 clock53.bmp
+#BMP77 clock54.bmp
+#BMP78 clock55.bmp
+#BMP79 clock56.bmp
+#BMP7A clock57.bmp
+#BMP7B clock58.bmp
+#BMP7C clock59.bmp
+#BMP7D clock60.bmp
+#BMP7E clock61.bmp
+#BMP7F clock62.bmp
+#BMP80 clock63.bmp
+#BMP81 open00.bmp
+#BMP82 open01.bmp
+#BMP83 open02.bmp
+#BMP84 open03.bmp
+#BMP85 open04.bmp
+#BMP86 open05.bmp
+#BMP87 open06.bmp
+#BMP88 open07.bmp
+#BMP89 open08.bmp
+#BMP8A open09.bmp
+#BMP8B open10.bmp
+#BMP8C open11.bmp
+#BMP8D open12.bmp
+#BMP8E open13.bmp
+#BMP8F open14.bmp
+#BMP90 open15.bmp
+#BMP91 open16.bmp
+#BMP92 open17.bmp
+#BMP93 open18.bmp
+#BMP94 open19.bmp
+#BMP95 open20.bmp
+#BMP96 open21.bmp
+#BMP97 open22.bmp
+#BMP98 open23.bmp
+#BMP99 open24.bmp
+#BMP9A open25.bmp
+#BMP9B open26.bmp
+#BMP9C open27.bmp
+#BMP9D open28.bmp
+#BMP9E open29.bmp
+#BMP9F open30.bmp
+#BMPA0 open31.bmp
+#BMPA1 open32.bmp
+#BMPA2 open33.bmp
+#BMPA3 open34.bmp
+#BMPA4 open35.bmp
+#BMPA5 open36.bmp
+#BMPA6 open37.bmp
+#BMPA7 open38.bmp
+#BMPA8 open39.bmp
+#BMPA9 open40.bmp
+#BMPAA open41.bmp
+#BMPAB open42.bmp
+#BMPAC open43.bmp
+#BMPAD open44.bmp
+#BMPAE open45.bmp
+#BMPAF open46.bmp
+#BMPB0 open47.bmp
+#BMPB1 open48.bmp
+#BMPB2 open49.bmp
+#BMPB3 open50.bmp
+#BMPB4 open51.bmp
+#BMPB5 open52.bmp
+#BMPB6 open53.bmp
+#BMPB7 open54.bmp
+#BMPB8 open55.bmp
+#BMPB9 open56.bmp
+#BMPBA open57.bmp
+#BMPBB open58.bmp
+#BMPBC open59.bmp
+#BMPBD open60.bmp
+#BMPBE open61.bmp
+#BMPBF open62.bmp
+#BMPC0 degi00.bmp
+#BMPC1 degi03.bmp
+#BMPC2 degi04.bmp
+#BMPC3 degi05.bmp
+#BMPC4 degi08.bmp
+#BMPC5 degi10.bmp
+#BMPC6 degi12.bmp
+#BMPC7 degi15.bmp
+#BMPC8 lov00.bmp
+#BMPC9 lov01.bmp
+#BMPCA lov02.bmp
+#BMPCB lov03.bmp
+#BMPCC lov04.bmp
+#BMPCD lov05.bmp
+#BMPCE lov06.bmp
+#BMPCF lov07.bmp
+#BMPD0 lov08.bmp
+#BMPD1 lov09.bmp
+#BMPD2 lov10.bmp
+#BMPD3 lov11.bmp
+#BMPD4 lov12.bmp
+#BMPD5 lov13.bmp
+#BMPD6 lov14.bmp
+#BMPD7 start00.bmp
+#BMPD8 start01.bmp
+#BMPD9 start02.bmp
+#BMPDA start03.bmp
+#BMPDB start04.bmp
+#BMPDC start05.bmp
+#BMPDD start06.bmp
+#BMPDE start07.bmp
+#BMPDF start08.bmp
+#BMPE0 start09.bmp
+#BMPE1 start10.bmp
+#BMPE2 start11.bmp
+#BMPE3 start12.bmp
+#BMPE4 start13.bmp
+#BMPE5 start14.bmp
+#BMPE6 start15.bmp
+#BMPE7 start16.bmp
+#BMPE8 start17.bmp
+#BMPE9 start18.bmp
+#BMPEA start19.bmp
+#BMPEB start20.bmp
+#BMPEC start21.bmp
+#BMPED start22.bmp
+#BMPEE start23.bmp
+#BMPEF start24.bmp
+#BMPF0 start25.bmp
+#BMPF1 start26.bmp
+#BMPF2 start27.bmp
+#BMPF3 start28.bmp
+#BMPF4 start29.bmp
+#BMPF5 start30.bmp
+#BMPF6 start31.bmp
+#BMPF7 abe00.bmp
+#BMPF8 abe01.bmp
+#BMPF9 abe02.bmp
+#BMPFA abe03.bmp
+#BMPFB abe04.bmp
+#BMPFF white.bmp
+
+
+
+
+#c8c9cacbcccdcecfd0d1d2d3d4d5d600
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:0E
+#00004:B7B8B9BABBBCBDBE
+
+#00104:BF00FF00D7D8D9DADBDCDDDEDFE0E1E2
+
+#00204:E3E4E5E6E7E8E900EA00EB00EC00ED00
+
+#00304:EEEFF1F2F3F4F5F6
+
+#00401:00
+#00401:00
+#00401:05050505
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:0F
+#00404:8182838485868788898A8B8C8D8E8F90
+#00413:0000000000000000000000000000A2A2
+
+#00501:00
+#00501:00
+#00501:05050505
+#00504:9192939495969798999A9B9C9D9E9FA0
+#00513:A2A20000000000000000000000000000
+#00515:00A3000000000000
+#00518:00000000000000000000A1000000A1A1
+
+#00601:00
+#00601:00
+#00601:05050505
+#00604:A1A2A3A4A5A6A7A8A9AAABACADAEAFB0
+#00613:0000000000000000000000000000A2A2
+
+#00701:00
+#00701:0000000000000000000000000000001E
+#00701:05050505
+#00701:00
+#00701:00
+#00701:000000000000001D
+#00701:00
+#00701:00000000000000000000000000000404
+#00704:B1B2B3B4B5B6B7B8B9BABBBCBDBEBFFF
+#00713:00A20000A20000000000000000000000
+#00718:00000000000000A1
+#00719:00A3000000000000
+
+#00801:00
+#00801:00
+#00801:1F
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:00
+#00801:10
+
+#00904:F6F5F4F3F2F1F0EFEEEDECEBEAE9E8E7
+#00911:000000000000000000000000001D001D
+#00919:000000000000001E
+
+#01004:E6E5E4E3E2E1E0DFDEDDDCDBDAD9D8D7
+#01014:20
+
+#01101:4D000051
+#01101:50
+#01101:4F
+#01104:C8C9CACBCCCDCECFD0D1D2D3FFD5D6FF
+#01112:0000000B0B000000000B0B0000000000
+#01115:0C0C000000000C0C000000000C000000
+#01119:000000000000000D
+
+#01201:4D
+#01201:00
+#01201:02
+#01204:D7D8D9DADCDDDEDFE0E1E2E3E4E5E6E7E8E9EAEBECEDEEEFF1F2F3F4F5F6BDBE
+#01212:0C
+
+#01304:BFDA000000000000000000000000000000000000000000000000000000000000
+
